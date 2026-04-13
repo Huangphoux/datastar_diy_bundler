@@ -1,0 +1,16 @@
+{
+    "name": "library",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "node esbuild.mjs",
+        "watch": "node esbuild.dev.mjs"
+    },
+    "devDependencies": {
+        "esbuild": "0.27.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
