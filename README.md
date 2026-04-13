@@ -11,4 +11,4 @@
 - Run the following commands from within the `/library` directory of the repo
   - Run `pnpm i` to install dependencies.
   - Run `pnpm build` to compile the plugin source code to Javascript
-- Check the newly-bundled file in `/bundles/datastar.js`.
+- Check the newly-bundled file `/bundles/datastar.js`.
